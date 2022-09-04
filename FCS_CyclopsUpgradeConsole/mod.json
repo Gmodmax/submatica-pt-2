@@ -1,0 +1,16 @@
+{
+  "Id": "CyclopsUpgradeConsole",
+  "DisplayName": "Cyclops Upgrade Console",
+  "Author": "Field Creators Studios",
+  "Version": "2.0.0.2",
+  "Enable": true,
+  "Game": "Subnautica",
+  "AssemblyName": "FCS_CyclopsUpgradeConsole.dll",
+  "VersionDependencies": {
+    "SMLHelper": "2.9.7",
+    "MoreCyclopsUpgrades": "5.1.2"
+  },
+  "NexusId": {
+    "Subnautica": "548"
+  }
+}

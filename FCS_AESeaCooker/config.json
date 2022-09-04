@@ -1,0 +1,9 @@
+{
+  "Config": {
+    "PlaySFX": true,
+    "CookTime": 5.0,
+    "EnergyPerSec": 0.50666666,
+    "StorageWidth": 4,
+    "StorageHeight": 4
+  }
+}
