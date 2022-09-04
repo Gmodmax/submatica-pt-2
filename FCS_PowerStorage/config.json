@@ -1,0 +1,10 @@
+{
+  "Capacity": 2000.0,
+  "ChargeSpeed": 0.005,
+  "Ingredients": [
+    {
+      "Amount": 1,
+      "Item": "PowerStorageKit_PS"
+    }
+  ]
+}

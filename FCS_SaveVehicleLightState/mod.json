@@ -1,0 +1,15 @@
+{
+  "Id": "SaveVehicleLightState",
+  "DisplayName": "Save Vehicle Light State",
+  "Author": "FCStudios",
+  "Version": "1.0.0",
+  "AssemblyName": "SaveVehicleLightState.dll",
+  "EntryMethod": "MAC.SaveVehicleLightState.QPatch.Patch",
+  "Dependencies": [
+    "SMLHelper"
+  ],
+  "Config": {
+    "Enabled": true
+  },
+  "Enable": true
+}

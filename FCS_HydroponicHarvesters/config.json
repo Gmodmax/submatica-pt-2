@@ -1,0 +1,8 @@
+{
+  "Config": {
+    "LargeStorageLimit": 100,
+    "MediumStorageLimit": 50,
+    "SmallStorageLimit": 25,
+    "GetsDirtyOverTime": false
+  }
+}

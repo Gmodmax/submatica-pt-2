@@ -1,0 +1,10 @@
+{
+    "PlaySFX": true,
+    "EnergyPerSec": 0.425,
+    "StorageWidth": 3,
+    "StorageHeight": 2,
+    "TankCapacity": 100,
+    "WaterPerSecond": 1,
+    "AutoGenerateMode": false,
+    "BottleTechType": "FilteredWater"
+}

@@ -1,0 +1,13 @@
+{
+  "Id": "QuantumTeleporter",
+  "DisplayName": "Quantum Teleporter",
+  "Author": "FieldCreators Studios",
+  "Version": "1.0.4",
+  "Game": "Subnautica",
+  "VersionDependencies": {
+    "FCSTechFabricator": "2.0.1",
+    "SMLHelper": "2.5.2"
+  },
+  "AssemblyName": "QuantumTeleporter.dll",
+    "Enable": true
+}

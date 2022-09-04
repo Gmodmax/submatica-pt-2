@@ -1,0 +1,92 @@
+{
+  "RotationCycleInSec": 1200,
+  "MaxCapacity": 300,
+  "EnableWear": true,
+  "_comment": "All speed values in this configuration are in Degrees Per Second (50 RPM = 300 DPS)",
+  "BiomeSpeeds": {
+    "kelpforest": {
+      "Speed": 283
+    },
+    "mushroomforest": {
+      "Speed": 200
+    },
+    "koosh": {
+      "Speed": 220
+    },
+    "jellyshroom": {
+      "Speed": 166
+    },
+    "sparsereef": {
+      "Speed": 250
+    },
+    "grandreef": {
+      "Speed": 300
+    },
+    "deepgrandreef": {
+      "Speed": 295
+    },
+    "dunes": {
+      "Speed": 295
+    },
+    "mountains": {
+      "Speed": 275
+    },
+    "bloodkelp": {
+      "Speed": 255
+    },
+    "underwaterislands": {
+      "Speed": 282
+    },
+    "inactivelavazone": {
+      "Speed": 295
+    },
+    "floaterislands": {
+      "Speed": 298
+    },
+    "lostriver": {
+      "Speed": 267
+    },
+    "ghosttree": {
+      "Speed": 267
+    },
+    "skeletoncave": {
+      "Speed": 267
+    },
+    "activelavazone": {
+      "Speed": 300
+    },
+    "crashzone": {
+      "Speed": 300
+    },
+    "seatreaderpath": {
+      "Speed": 300
+    },
+    "safe": {
+      "Speed": 300
+    },
+    "grassy": {
+      "Speed": 300
+    },
+    "crag": {
+      "Speed": 275
+    },
+    "ilz": {
+      "Speed": 295
+    },
+    "alz": {
+      "Speed": 300
+    },
+    "lava": {
+      "Speed": 300
+    },
+    "void": {
+      "Speed": 300
+    },
+	"floating": {
+      "Speed": 300
+    },
+    "None": {
+      "Speed": 0
+    }
+  }
+}

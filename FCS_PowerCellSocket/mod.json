@@ -1,0 +1,19 @@
+{
+  "Id": "FCSAIPowerCellSocket",
+  "DisplayName": "FCS PowerCell Socket",
+  "Author": "FCStudios",
+  "Version": "1.2.5",
+  "Game": "Subnautica",
+  "VersionDependencies": {
+    "FCSTechFabricator": "2.0.0",
+    "SMLHelper": "2.5.2"
+  },
+  "AssemblyName": "FCSAIPowerCellSocket.dll",
+  "Enable": true,
+  "NexusId": {
+    "Subnautica": "264"
+  },
+    "VersionChecker": {
+    "LatestVersionURL": "https://github.com/ccgould/FCStudios_SubnauticaMods/raw/master/FCSAIPowerCellSocket/mod.json"
+  },
+}

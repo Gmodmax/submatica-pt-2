@@ -1,0 +1,13 @@
+{
+  "Id": "FCSPowerStorage",
+  "DisplayName": "FCS Power Storage",
+  "Author": "FieldCreators Studios",
+  "Version": "2.1.1",
+  "Game": "Subnautica",
+  "VersionDependencies": {
+    "FCSTechFabricator": "2.0.0",
+    "SMLHelper": "2.5.2"
+  },
+  "AssemblyName": "FCSPowerStorage.dll",
+  "Enable": true
+}

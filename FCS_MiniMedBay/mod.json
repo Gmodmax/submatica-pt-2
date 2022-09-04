@@ -1,0 +1,13 @@
+{
+  "Id": "AMMiniMedBay",
+  "DisplayName": "Alterra Medical MiniMedBay",
+  "Author": "FCStudios",
+  "Version": "1.2.2",
+  "Game": "Subnautica",
+  "VersionDependencies": {
+    "FCSTechFabricator": "2.0.0",
+    "SMLHelper": "2.5.2"
+  },
+  "AssemblyName": "AMMiniMedBay.dll",
+  "Enable": true
+}

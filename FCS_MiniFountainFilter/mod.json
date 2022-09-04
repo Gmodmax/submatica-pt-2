@@ -1,0 +1,13 @@
+{
+  "Id": "MiniFountainFilter",
+  "DisplayName": "MiniFountainFilter",
+  "Author": "FCStudios",
+  "Version": "1.1.4",
+  "Game": "Subnautica",
+  "VersionDependencies": {
+    "FCSTechFabricator": "2.0.1",
+    "SMLHelper": "2.5.2"
+  },
+  "AssemblyName": "MiniFountainFilter.dll",
+  "Enable": true
+}

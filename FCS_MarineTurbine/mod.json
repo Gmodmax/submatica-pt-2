@@ -1,0 +1,13 @@
+{
+  "Id": "AIMarineTurbine",
+  "DisplayName": "FCS Marine Turbine",
+  "Author": "Field Creators Studios",
+  "Version": "2.3.1",
+  "Game": "Subnautica",
+  "VersionDependencies": {
+    "FCSTechFabricator": "2.0.0",
+    "SMLHelper": "2.5.2"
+  },
+  "AssemblyName": "FCS_AIMarineTurbine.dll",
+  "Enable": true
+}

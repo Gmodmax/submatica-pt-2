@@ -1,0 +1,7 @@
+{
+  "Config": {
+    "PlaySFX": true,
+    "StorageLimit": 48,
+    "PowerUsage": 0.1
+  }
+}
