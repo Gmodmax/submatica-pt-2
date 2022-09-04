@@ -1,0 +1,16 @@
+{
+  "Id": "FireExtinguisherHolder",
+  "DisplayName": "Fire Extinguisher Holder",
+  "Author": "FCStudios",
+  "Version": "1.0.1",
+  "Enable": true,
+  "AssemblyName": "FireExtinguisherHolder.dll",
+  "EntryMethod": "MAC.FireExtinguisherHolder.QPatch.Patch",
+  "Dependencies": [
+    "SMLHelper"
+  ],
+  "Config": {
+    "AllowInCyclops": false
+  },
+  "Game": "Subnautica"
+}

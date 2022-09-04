@@ -1,0 +1,16 @@
+{
+  "Config": {
+    "ExtractInterval": 0.25,
+    "ServerStorageLimit": 48,
+    "AntennaPowerUsage": 0.001,
+    "ScreenPowerUsage": 0.001,
+    "ServerPowerUsage": 0.005,
+    "RackPowerUsage": 0.001,
+    "ShowAllItems": false,
+    "PullFromDockedVehicles": true,
+    "CheckVehiclesInterval": 2.0,
+    "ExtractMultiplier": 0,
+    "ShowServerCustomToolTip": true,
+    "DockingBlackList": []
+  }
+}

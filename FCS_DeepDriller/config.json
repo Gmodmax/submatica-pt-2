@@ -1,0 +1,14 @@
+{
+  "StorageSize": 1000000,
+  "PowerDraw": 0.7,
+  "ChargePullAmount": 0.3,
+  "SolarCapacity": 125.0,
+  "HardCoreMode": false,
+  "OilTimePeriodInDays": 300000.0,
+  "OilRestoresInDays": 1.0,
+  "AdditionalBiomeOres": {},
+  "MaxOreCountUpgradePowerUsage": 0.0,
+  "OrePerDayUpgradePowerUsage": 0.0,
+  "InternalBatteryCapacity": 1000.0,
+  "DrillExStorageRange": 100.0
+}
