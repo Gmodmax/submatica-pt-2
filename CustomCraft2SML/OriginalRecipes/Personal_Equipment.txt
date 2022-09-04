@@ -1,0 +1,205 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                    PdaGroup: Personal - PdaCategory:Equipment                    #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: Tank;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 3;
+    );
+),
+(
+    ItemID: DoubleTank;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Tank;
+        Required: 1;
+    ),
+    (
+        ItemID: Glass;
+        Required: 2;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 4;
+    ),
+    (
+        ItemID: Silver;
+        Required: 1;
+    );
+),
+(
+    ItemID: Fins;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Silicone;
+        Required: 2;
+    );
+),
+(
+    ItemID: RadiationSuit;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: FiberMesh;
+        Required: 2;
+    ),
+    (
+        ItemID: Lead;
+        Required: 2;
+    );
+    LinkedItemIDs: RadiationHelmet,RadiationGloves;
+),
+(
+    ItemID: ReinforcedDiveSuit;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: AramidFibers;
+        Required: 1;
+    ),
+    (
+        ItemID: Diamond;
+        Required: 2;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+    LinkedItemIDs: ReinforcedGloves;
+),
+(
+    ItemID: Stillsuit;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: AramidFibers;
+        Required: 1;
+    ),
+    (
+        ItemID: Aerogel;
+        Required: 1;
+    ),
+    (
+        ItemID: CopperWire;
+        Required: 1;
+    );
+),
+(
+    ItemID: FirstAidKit;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: FiberMesh;
+        Required: 1;
+    );
+),
+(
+    ItemID: FireExtinguisher;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 3;
+    );
+),
+(
+    ItemID: Rebreather;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: WiringKit;
+        Required: 1;
+    ),
+    (
+        ItemID: FiberMesh;
+        Required: 1;
+    );
+),
+(
+    ItemID: Compass;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: CopperWire;
+        Required: 1;
+    ),
+    (
+        ItemID: WiringKit;
+        Required: 1;
+    );
+),
+(
+    ItemID: Thermometer;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    );
+),
+(
+    ItemID: Pipe;
+    AmountCrafted: 5;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+),
+(
+    ItemID: PipeSurfaceFloater;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+),
+(
+    ItemID: PrecursorKey_Purple;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PrecursorIonCrystal;
+        Required: 1;
+    ),
+    (
+        ItemID: Diamond;
+        Required: 2;
+    );
+),
+(
+    ItemID: PrecursorKey_Blue;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PrecursorIonCrystal;
+        Required: 1;
+    ),
+    (
+        ItemID: Kyanite;
+        Required: 2;
+    );
+),
+(
+    ItemID: PrecursorKey_Orange;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PrecursorIonCrystal;
+        Required: 1;
+    ),
+    (
+        ItemID: Nickel;
+        Required: 2;
+    );
+);
+

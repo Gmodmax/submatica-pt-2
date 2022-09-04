@@ -1,0 +1,4 @@
+CustomCraft2Configs: 
+(
+    DebugLogsEnabled: NO;
+);

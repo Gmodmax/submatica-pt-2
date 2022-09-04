@@ -1,0 +1,127 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                 PdaGroup: Cyclops - PdaCategory:CyclopsUpgrades                  #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: CyclopsHullModule1;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PlasteelIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: AluminumOxide;
+        Required: 3;
+    );
+),
+(
+    ItemID: PowerUpgradeModule;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: Benzene;
+        Required: 1;
+    ),
+    (
+        ItemID: Polyaniline;
+        Required: 1;
+    );
+),
+(
+    ItemID: CyclopsShieldModule;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: AdvancedWiringKit;
+        Required: 1;
+    ),
+    (
+        ItemID: Polyaniline;
+        Required: 1;
+    ),
+    (
+        ItemID: PowerCell;
+        Required: 1;
+    );
+),
+(
+    ItemID: CyclopsSonarModule;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: Magnetite;
+        Required: 3;
+    );
+),
+(
+    ItemID: CyclopsSeamothRepairModule;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Welder;
+        Required: 1;
+    ),
+    (
+        ItemID: CopperWire;
+        Required: 1;
+    );
+),
+(
+    ItemID: CyclopsFireSuppressionModule;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Aerogel;
+        Required: 2;
+    ),
+    (
+        ItemID: Sulphur;
+        Required: 2;
+    );
+),
+(
+    ItemID: CyclopsDecoyModule;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 3;
+    ),
+    (
+        ItemID: Lithium;
+        Required: 2;
+    ),
+    (
+        ItemID: Aerogel;
+        Required: 1;
+    );
+),
+(
+    ItemID: CyclopsThermalReactorModule;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Polyaniline;
+        Required: 2;
+    ),
+    (
+        ItemID: Kyanite;
+        Required: 4;
+    ),
+    (
+        ItemID: WiringKit;
+        Required: 1;
+    );
+);
+

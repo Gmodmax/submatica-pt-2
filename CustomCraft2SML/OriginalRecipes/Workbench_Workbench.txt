@@ -1,0 +1,220 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                   PdaGroup: Workbench - PdaCategory:Workbench                    #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: LithiumIonBattery;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Battery;
+        Required: 1;
+    ),
+    (
+        ItemID: Lithium;
+        Required: 1;
+    );
+),
+(
+    ItemID: HeatBlade;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Knife;
+        Required: 1;
+    ),
+    (
+        ItemID: Battery;
+        Required: 1;
+    );
+),
+(
+    ItemID: PlasteelTank;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: DoubleTank;
+        Required: 1;
+    ),
+    (
+        ItemID: PlasteelIngot;
+        Required: 1;
+    );
+),
+(
+    ItemID: HighCapacityTank;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: DoubleTank;
+        Required: 1;
+    ),
+    (
+        ItemID: Lithium;
+        Required: 4;
+    );
+),
+(
+    ItemID: UltraGlideFins;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Fins;
+        Required: 1;
+    ),
+    (
+        ItemID: Silicone;
+        Required: 2;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    ),
+    (
+        ItemID: Lithium;
+        Required: 1;
+    );
+),
+(
+    ItemID: SwimChargeFins;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Fins;
+        Required: 1;
+    ),
+    (
+        ItemID: Polyaniline;
+        Required: 1;
+    ),
+    (
+        ItemID: WiringKit;
+        Required: 1;
+    );
+),
+(
+    ItemID: RepulsionCannon;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PropulsionCannon;
+        Required: 1;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: Magnetite;
+        Required: 2;
+    );
+),
+(
+    ItemID: CyclopsHullModule2;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: CyclopsHullModule1;
+        Required: 1;
+    ),
+    (
+        ItemID: PlasteelIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: Nickel;
+        Required: 3;
+    );
+),
+(
+    ItemID: CyclopsHullModule3;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: CyclopsHullModule2;
+        Required: 1;
+    ),
+    (
+        ItemID: PlasteelIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: Kyanite;
+        Required: 3;
+    );
+),
+(
+    ItemID: VehicleHullModule2;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: VehicleHullModule1;
+        Required: 1;
+    ),
+    (
+        ItemID: PlasteelIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: Magnetite;
+        Required: 2;
+    ),
+    (
+        ItemID: EnameledGlass;
+        Required: 1;
+    );
+),
+(
+    ItemID: VehicleHullModule3;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: VehicleHullModule2;
+        Required: 1;
+    ),
+    (
+        ItemID: PlasteelIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: AluminumOxide;
+        Required: 3;
+    );
+),
+(
+    ItemID: ExoHullModule2;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: ExoHullModule1;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 5;
+    ),
+    (
+        ItemID: Lithium;
+        Required: 2;
+    ),
+    (
+        ItemID: Kyanite;
+        Required: 3;
+    );
+),
+(
+    ItemID: PowerGlide;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PowerGlide;
+        Required: 1;
+    ),
+    (
+        ItemID: WiringKit;
+        Required: 1;
+    );
+);
+

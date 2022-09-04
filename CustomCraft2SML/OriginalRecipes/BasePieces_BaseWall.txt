@@ -1,0 +1,42 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                   PdaGroup: BasePieces - PdaCategory:BaseWall                    #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: BaseHatch;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Quartz;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+),
+(
+    ItemID: BaseWindow;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    );
+),
+(
+    ItemID: BaseReinforcement;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Lithium;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 3;
+    );
+);
+

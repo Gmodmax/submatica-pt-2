@@ -1,0 +1,721 @@
+﻿#     This file was generated with original BioFuel energy values in the game      #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+CustomBioFuels: 
+(
+    ItemID: Melon;
+    Energy: 420;
+),
+(
+    ItemID: PurpleVegetable;
+    Energy: 140;
+),
+(
+    ItemID: HangingFruit;
+    Energy: 210;
+),
+(
+    ItemID: SmallMelon;
+    Energy: 280;
+),
+(
+    ItemID: JellyPlant;
+    Energy: 245;
+),
+(
+    ItemID: BulboTreePiece;
+    Energy: 420;
+),
+(
+    ItemID: KooshChunk;
+    Energy: 420;
+),
+(
+    ItemID: CreepvinePiece;
+    Energy: 210;
+),
+(
+    ItemID: WhiteMushroom;
+    Energy: 210;
+),
+(
+    ItemID: AcidMushroom;
+    Energy: 210;
+),
+(
+    ItemID: SmallFan;
+    Energy: 70;
+),
+(
+    ItemID: PurpleRattle;
+    Energy: 140;
+),
+(
+    ItemID: PinkMushroom;
+    Energy: 105;
+),
+(
+    ItemID: BloodVine;
+    Energy: 70;
+),
+(
+    ItemID: BluePalm;
+    Energy: 70;
+),
+(
+    ItemID: BulboTree;
+    Energy: 70;
+),
+(
+    ItemID: Creepvine;
+    Energy: 70;
+),
+(
+    ItemID: EyesPlant;
+    Energy: 70;
+),
+(
+    ItemID: FernPalm;
+    Energy: 70;
+),
+(
+    ItemID: GabeSFeather;
+    Energy: 70;
+),
+(
+    ItemID: HangingFruitTree;
+    Energy: 70;
+),
+(
+    ItemID: SmallKoosh;
+    Energy: 70;
+),
+(
+    ItemID: MembrainTree;
+    Energy: 70;
+),
+(
+    ItemID: OrangeMushroom;
+    Energy: 70;
+),
+(
+    ItemID: OrangePetalsPlant;
+    Energy: 140;
+),
+(
+    ItemID: PinkFlower;
+    Energy: 70;
+),
+(
+    ItemID: PurpleBrainCoral;
+    Energy: 70;
+),
+(
+    ItemID: PurpleBranches;
+    Energy: 70;
+),
+(
+    ItemID: PurpleFan;
+    Energy: 70;
+),
+(
+    ItemID: PurpleStalk;
+    Energy: 70;
+),
+(
+    ItemID: PurpleTentacle;
+    Energy: 70;
+),
+(
+    ItemID: PurpleVasePlant;
+    Energy: 70;
+),
+(
+    ItemID: PurpleVegetablePlant;
+    Energy: 70;
+),
+(
+    ItemID: RedBasketPlant;
+    Energy: 70;
+),
+(
+    ItemID: RedBush;
+    Energy: 70;
+),
+(
+    ItemID: RedConePlant;
+    Energy: 70;
+),
+(
+    ItemID: RedGreenTentacle;
+    Energy: 70;
+),
+(
+    ItemID: RedRollPlant;
+    Energy: 70;
+),
+(
+    ItemID: SeaCrown;
+    Energy: 70;
+),
+(
+    ItemID: ShellGrass;
+    Energy: 70;
+),
+(
+    ItemID: SnakeMushroom;
+    Energy: 70;
+),
+(
+    ItemID: SpikePlant;
+    Energy: 70;
+),
+(
+    ItemID: SpottedLeavesPlant;
+    Energy: 70;
+),
+(
+    ItemID: JeweledDiskPiece;
+    Energy: 70;
+),
+(
+    ItemID: CoralChunk;
+    Energy: 70;
+),
+(
+    ItemID: StalkerTooth;
+    Energy: 70;
+),
+(
+    ItemID: TreeMushroomPiece;
+    Energy: 70;
+),
+(
+    ItemID: OrangeMushroomSpore;
+    Energy: 140;
+),
+(
+    ItemID: PurpleVasePlantSeed;
+    Energy: 140;
+),
+(
+    ItemID: AcidMushroomSpore;
+    Energy: 21;
+),
+(
+    ItemID: WhiteMushroomSpore;
+    Energy: 21;
+),
+(
+    ItemID: PinkMushroomSpore;
+    Energy: 14;
+),
+(
+    ItemID: PurpleRattleSpore;
+    Energy: 14;
+),
+(
+    ItemID: MelonSeed;
+    Energy: 70;
+),
+(
+    ItemID: PurpleBrainCoralPiece;
+    Energy: 70;
+),
+(
+    ItemID: SpikePlantSeed;
+    Energy: 70;
+),
+(
+    ItemID: BluePalmSeed;
+    Energy: 70;
+),
+(
+    ItemID: PurpleFanSeed;
+    Energy: 21;
+),
+(
+    ItemID: SmallFanSeed;
+    Energy: 28;
+),
+(
+    ItemID: PurpleTentacleSeed;
+    Energy: 70;
+),
+(
+    ItemID: JellyPlantSeed;
+    Energy: 7;
+),
+(
+    ItemID: GabeSFeatherSeed;
+    Energy: 70;
+),
+(
+    ItemID: SeaCrownSeed;
+    Energy: 70;
+),
+(
+    ItemID: MembrainTreeSeed;
+    Energy: 70;
+),
+(
+    ItemID: PinkFlowerSeed;
+    Energy: 28;
+),
+(
+    ItemID: FernPalmSeed;
+    Energy: 70;
+),
+(
+    ItemID: OrangePetalsPlantSeed;
+    Energy: 105;
+),
+(
+    ItemID: EyesPlantSeed;
+    Energy: 70;
+),
+(
+    ItemID: RedGreenTentacleSeed;
+    Energy: 70;
+),
+(
+    ItemID: PurpleStalkSeed;
+    Energy: 70;
+),
+(
+    ItemID: RedBasketPlantSeed;
+    Energy: 70;
+),
+(
+    ItemID: RedBushSeed;
+    Energy: 70;
+),
+(
+    ItemID: RedConePlantSeed;
+    Energy: 70;
+),
+(
+    ItemID: SpottedLeavesPlantSeed;
+    Energy: 70;
+),
+(
+    ItemID: RedRollPlantSeed;
+    Energy: 70;
+),
+(
+    ItemID: PurpleBranchesSeed;
+    Energy: 70;
+),
+(
+    ItemID: SnakeMushroomSpore;
+    Energy: 140;
+),
+(
+    ItemID: CreepvineSeedCluster;
+    Energy: 70;
+),
+(
+    ItemID: BloodOil;
+    Energy: 420;
+),
+(
+    ItemID: Bladderfish;
+    Energy: 210;
+),
+(
+    ItemID: Boomerang;
+    Energy: 280;
+),
+(
+    ItemID: LavaBoomerang;
+    Energy: 280;
+),
+(
+    ItemID: Eyeye;
+    Energy: 420;
+),
+(
+    ItemID: LavaEyeye;
+    Energy: 420;
+),
+(
+    ItemID: GarryFish;
+    Energy: 420;
+),
+(
+    ItemID: HoleFish;
+    Energy: 280;
+),
+(
+    ItemID: Hoopfish;
+    Energy: 210;
+),
+(
+    ItemID: Spinefish;
+    Energy: 210;
+),
+(
+    ItemID: Hoverfish;
+    Energy: 350;
+),
+(
+    ItemID: Oculus;
+    Energy: 630;
+),
+(
+    ItemID: Peeper;
+    Energy: 420;
+),
+(
+    ItemID: Reginald;
+    Energy: 490;
+),
+(
+    ItemID: Spadefish;
+    Energy: 420;
+),
+(
+    ItemID: CookedBladderfish;
+    Energy: 157.5;
+),
+(
+    ItemID: CookedBoomerang;
+    Energy: 210;
+),
+(
+    ItemID: CookedLavaBoomerang;
+    Energy: 210;
+),
+(
+    ItemID: CookedEyeye;
+    Energy: 315;
+),
+(
+    ItemID: CookedLavaEyeye;
+    Energy: 315;
+),
+(
+    ItemID: CookedGarryFish;
+    Energy: 245;
+),
+(
+    ItemID: CookedHoleFish;
+    Energy: 210;
+),
+(
+    ItemID: CookedHoopfish;
+    Energy: 157.5;
+),
+(
+    ItemID: CookedSpinefish;
+    Energy: 157.5;
+),
+(
+    ItemID: CookedHoverfish;
+    Energy: 262.5;
+),
+(
+    ItemID: CookedOculus;
+    Energy: 472.5;
+),
+(
+    ItemID: CookedPeeper;
+    Energy: 315;
+),
+(
+    ItemID: CookedReginald;
+    Energy: 367.5;
+),
+(
+    ItemID: CookedSpadefish;
+    Energy: 315;
+),
+(
+    ItemID: CuredBladderfish;
+    Energy: 119;
+),
+(
+    ItemID: CuredBoomerang;
+    Energy: 157.5;
+),
+(
+    ItemID: CuredLavaBoomerang;
+    Energy: 157.5;
+),
+(
+    ItemID: CuredEyeye;
+    Energy: 245;
+),
+(
+    ItemID: CuredLavaEyeye;
+    Energy: 245;
+),
+(
+    ItemID: CuredGarryFish;
+    Energy: 182;
+),
+(
+    ItemID: CuredHoleFish;
+    Energy: 157.5;
+),
+(
+    ItemID: CuredHoopfish;
+    Energy: 119;
+),
+(
+    ItemID: CuredSpinefish;
+    Energy: 119;
+),
+(
+    ItemID: CuredHoverfish;
+    Energy: 196;
+),
+(
+    ItemID: CuredOculus;
+    Energy: 353.5;
+),
+(
+    ItemID: CuredPeeper;
+    Energy: 238;
+),
+(
+    ItemID: CuredReginald;
+    Energy: 273;
+),
+(
+    ItemID: CuredSpadefish;
+    Energy: 238;
+),
+(
+    ItemID: Jumper;
+    Energy: 280;
+),
+(
+    ItemID: RabbitRay;
+    Energy: 420;
+),
+(
+    ItemID: Stalker;
+    Energy: 560;
+),
+(
+    ItemID: Jellyray;
+    Energy: 350;
+),
+(
+    ItemID: Gasopod;
+    Energy: 700;
+),
+(
+    ItemID: Sandshark;
+    Energy: 630;
+),
+(
+    ItemID: BoneShark;
+    Energy: 630;
+),
+(
+    ItemID: CrabSquid;
+    Energy: 770;
+),
+(
+    ItemID: Mesmer;
+    Energy: 560;
+),
+(
+    ItemID: Biter;
+    Energy: 140;
+),
+(
+    ItemID: Crabsnake;
+    Energy: 700;
+),
+(
+    ItemID: Shocker;
+    Energy: 770;
+),
+(
+    ItemID: Shuttlebug;
+    Energy: 280;
+),
+(
+    ItemID: LavaLizard;
+    Energy: 560;
+),
+(
+    ItemID: Reefback;
+    Energy: 840;
+),
+(
+    ItemID: Crash;
+    Energy: 560;
+),
+(
+    ItemID: SafeShallowsEgg;
+    Energy: 350;
+),
+(
+    ItemID: KelpForestEgg;
+    Energy: 350;
+),
+(
+    ItemID: GrassyPlateausEgg;
+    Energy: 350;
+),
+(
+    ItemID: GrandReefsEgg;
+    Energy: 350;
+),
+(
+    ItemID: MushroomForestEgg;
+    Energy: 350;
+),
+(
+    ItemID: KooshZoneEgg;
+    Energy: 350;
+),
+(
+    ItemID: TwistyBridgesEgg;
+    Energy: 350;
+),
+(
+    ItemID: StalkerEgg;
+    Energy: 105;
+),
+(
+    ItemID: StalkerEggUndiscovered;
+    Energy: 105;
+),
+(
+    ItemID: ReefbackEgg;
+    Energy: 280;
+),
+(
+    ItemID: ReefbackEggUndiscovered;
+    Energy: 280;
+),
+(
+    ItemID: SpadefishEgg;
+    Energy: 140;
+),
+(
+    ItemID: SpadefishEggUndiscovered;
+    Energy: 140;
+),
+(
+    ItemID: RabbitrayEgg;
+    Energy: 140;
+),
+(
+    ItemID: RabbitrayEggUndiscovered;
+    Energy: 140;
+),
+(
+    ItemID: MesmerEgg;
+    Energy: 175;
+),
+(
+    ItemID: MesmerEggUndiscovered;
+    Energy: 175;
+),
+(
+    ItemID: JumperEgg;
+    Energy: 105;
+),
+(
+    ItemID: JumperEggUndiscovered;
+    Energy: 105;
+),
+(
+    ItemID: SandsharkEgg;
+    Energy: 210;
+),
+(
+    ItemID: SandsharkEggUndiscovered;
+    Energy: 210;
+),
+(
+    ItemID: JellyrayEgg;
+    Energy: 119;
+),
+(
+    ItemID: JellyrayEggUndiscovered;
+    Energy: 119;
+),
+(
+    ItemID: BonesharkEgg;
+    Energy: 210;
+),
+(
+    ItemID: BonesharkEggUndiscovered;
+    Energy: 210;
+),
+(
+    ItemID: CrabsnakeEgg;
+    Energy: 231;
+),
+(
+    ItemID: CrabsnakeEggUndiscovered;
+    Energy: 231;
+),
+(
+    ItemID: ShockerEgg;
+    Energy: 259;
+),
+(
+    ItemID: ShockerEggUndiscovered;
+    Energy: 259;
+),
+(
+    ItemID: GasopodEgg;
+    Energy: 231;
+),
+(
+    ItemID: GasopodEggUndiscovered;
+    Energy: 231;
+),
+(
+    ItemID: CrashEgg;
+    Energy: 189;
+),
+(
+    ItemID: CrashEggUndiscovered;
+    Energy: 189;
+),
+(
+    ItemID: CutefishEgg;
+    Energy: 210;
+),
+(
+    ItemID: CutefishEggUndiscovered;
+    Energy: 210;
+),
+(
+    ItemID: CrabsquidEgg;
+    Energy: 259;
+),
+(
+    ItemID: CrabsquidEggUndiscovered;
+    Energy: 259;
+),
+(
+    ItemID: LavaLizardEgg;
+    Energy: 189;
+),
+(
+    ItemID: LavaLizardEggUndiscovered;
+    Energy: 189;
+),
+(
+    ItemID: Floater;
+    Energy: 50;
+),
+(
+    ItemID: Lubricant;
+    Energy: 20;
+),
+(
+    ItemID: SeaTreaderPoop;
+    Energy: 300;
+);
+

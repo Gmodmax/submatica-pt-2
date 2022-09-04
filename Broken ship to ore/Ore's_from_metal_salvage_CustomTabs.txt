@@ -1,0 +1,7 @@
+CustomCraftingTabs: 
+(
+    TabID: Ore's;
+    DisplayName: Ore's;
+    SpriteItemID: ScrapMetal;
+    ParentTabPath: Fabricator/Resources/BasicMaterials;
+),

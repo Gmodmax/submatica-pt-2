@@ -1,0 +1,67 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#             PdaGroup: MapRoomUpgrades - PdaCategory:MapRoomUpgrades              #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: MapRoomHUDChip;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: Magnetite;
+        Required: 1;
+    );
+),
+(
+    ItemID: MapRoomCamera;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: Battery;
+        Required: 1;
+    ),
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: MapRoomUpgradeScanRange;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Copper;
+        Required: 1;
+    ),
+    (
+        ItemID: Magnetite;
+        Required: 1;
+    );
+),
+(
+    ItemID: MapRoomUpgradeScanSpeed;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Silver;
+        Required: 1;
+    ),
+    (
+        ItemID: Gold;
+        Required: 1;
+    );
+);
+

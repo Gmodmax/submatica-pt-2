@@ -1,0 +1,133 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                   PdaGroup: Survival - PdaCategory:CookedFood                    #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: CookedHoleFish;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: HoleFish;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedPeeper;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Peeper;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedBladderfish;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Bladderfish;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedGarryFish;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: GarryFish;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedHoverfish;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Hoverfish;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedReginald;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Reginald;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedSpadefish;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Spadefish;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedBoomerang;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Boomerang;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedLavaBoomerang;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: LavaBoomerang;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedEyeye;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Eyeye;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedLavaEyeye;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: LavaEyeye;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedOculus;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Oculus;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedHoopfish;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Hoopfish;
+        Required: 1;
+    );
+),
+(
+    ItemID: CookedSpinefish;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Spinefish;
+        Required: 1;
+    );
+);
+

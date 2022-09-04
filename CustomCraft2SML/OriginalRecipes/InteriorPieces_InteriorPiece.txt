@@ -1,0 +1,63 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#               PdaGroup: InteriorPieces - PdaCategory:InteriorPiece               #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: BaseLadder;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+),
+(
+    ItemID: BaseFiltrationMachine;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 3;
+    ),
+    (
+        ItemID: CopperWire;
+        Required: 1;
+    ),
+    (
+        ItemID: Aerogel;
+        Required: 1;
+    );
+),
+(
+    ItemID: BaseBulkhead;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 3;
+    ),
+    (
+        ItemID: Silicone;
+        Required: 1;
+    );
+),
+(
+    ItemID: BaseUpgradeConsole;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 3;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: CopperWire;
+        Required: 1;
+    );
+);
+

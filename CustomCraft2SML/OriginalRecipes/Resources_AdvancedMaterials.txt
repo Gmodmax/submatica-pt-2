@@ -1,0 +1,93 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#               PdaGroup: Resources - PdaCategory:AdvancedMaterials                #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: HydrochloricAcid;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: WhiteMushroom;
+        Required: 3;
+    ),
+    (
+        ItemID: Salt;
+        Required: 1;
+    );
+),
+(
+    ItemID: Benzene;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: BloodOil;
+        Required: 3;
+    );
+),
+(
+    ItemID: AramidFibers;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Benzene;
+        Required: 1;
+    ),
+    (
+        ItemID: FiberMesh;
+        Required: 1;
+    );
+),
+(
+    ItemID: Aerogel;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: JellyPlant;
+        Required: 1;
+    ),
+    (
+        ItemID: AluminumOxide;
+        Required: 1;
+    );
+),
+(
+    ItemID: Polyaniline;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Gold;
+        Required: 1;
+    ),
+    (
+        ItemID: HydrochloricAcid;
+        Required: 1;
+    );
+),
+(
+    ItemID: HatchingEnzymes;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: EyesPlantSeed;
+        Required: 1;
+    ),
+    (
+        ItemID: SeaCrownSeed;
+        Required: 1;
+    ),
+    (
+        ItemID: TreeMushroomPiece;
+        Required: 1;
+    ),
+    (
+        ItemID: RedGreenTentacleSeed;
+        Required: 1;
+    ),
+    (
+        ItemID: KooshChunk;
+        Required: 1;
+    );
+);
+

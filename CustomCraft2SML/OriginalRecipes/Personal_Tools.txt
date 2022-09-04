@@ -1,0 +1,225 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                      PdaGroup: Personal - PdaCategory:Tools                      #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: Scanner;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Battery;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: Welder;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Silicone;
+        Required: 1;
+    ),
+    (
+        ItemID: CrashPowder;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: Flashlight;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Battery;
+        Required: 1;
+    ),
+    (
+        ItemID: Glass;
+        Required: 1;
+    );
+),
+(
+    ItemID: Knife;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Silicone;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: DiveReel;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: CreepvineSeedCluster;
+        Required: 2;
+    ),
+    (
+        ItemID: CopperWire;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: AirBladder;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Silicone;
+        Required: 1;
+    ),
+    (
+        ItemID: Bladderfish;
+        Required: 1;
+    );
+),
+(
+    ItemID: Flare;
+    AmountCrafted: 5;
+    Ingredients: 
+    (
+        ItemID: CrashPowder;
+        Required: 1;
+    );
+),
+(
+    ItemID: Builder;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: WiringKit;
+        Required: 1;
+    ),
+    (
+        ItemID: Battery;
+        Required: 1;
+    );
+),
+(
+    ItemID: LaserCutter;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Diamond;
+        Required: 2;
+    ),
+    (
+        ItemID: Battery;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    ),
+    (
+        ItemID: CrashPowder;
+        Required: 1;
+    );
+),
+(
+    ItemID: StasisRifle;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: Battery;
+        Required: 1;
+    ),
+    (
+        ItemID: Magnetite;
+        Required: 2;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: Terraformer;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: AdvancedWiringKit;
+        Required: 1;
+    ),
+    (
+        ItemID: Battery;
+        Required: 1;
+    );
+),
+(
+    ItemID: PropulsionCannon;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: WiringKit;
+        Required: 1;
+    ),
+    (
+        ItemID: Battery;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: LEDLight;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Battery;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    ),
+    (
+        ItemID: Glass;
+        Required: 1;
+    );
+),
+(
+    ItemID: Transfuser;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: AdvancedWiringKit;
+        Required: 1;
+    ),
+    (
+        ItemID: Battery;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+);
+

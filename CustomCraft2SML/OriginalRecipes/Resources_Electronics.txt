@@ -1,0 +1,136 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                  PdaGroup: Resources - PdaCategory:Electronics                   #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: CopperWire;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Copper;
+        Required: 2;
+    );
+),
+(
+    ItemID: Battery;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: AcidMushroom;
+        Required: 2;
+    ),
+    (
+        ItemID: Copper;
+        Required: 1;
+    );
+),
+(
+    ItemID: PrecursorIonBattery;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PrecursorIonCrystal;
+        Required: 1;
+    ),
+    (
+        ItemID: Gold;
+        Required: 1;
+    ),
+    (
+        ItemID: Silver;
+        Required: 1;
+    );
+),
+(
+    ItemID: PowerCell;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Battery;
+        Required: 2;
+    ),
+    (
+        ItemID: Silicone;
+        Required: 1;
+    );
+),
+(
+    ItemID: PrecursorIonPowerCell;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PrecursorIonBattery;
+        Required: 2;
+    ),
+    (
+        ItemID: Silicone;
+        Required: 1;
+    );
+),
+(
+    ItemID: ComputerChip;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: JeweledDiskPiece;
+        Required: 2;
+    ),
+    (
+        ItemID: Gold;
+        Required: 1;
+    ),
+    (
+        ItemID: CopperWire;
+        Required: 1;
+    );
+),
+(
+    ItemID: WiringKit;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Silver;
+        Required: 2;
+    );
+),
+(
+    ItemID: AdvancedWiringKit;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: WiringKit;
+        Required: 1;
+    ),
+    (
+        ItemID: Gold;
+        Required: 2;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    );
+),
+(
+    ItemID: ReactorRod;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: UraniniteCrystal;
+        Required: 3;
+    ),
+    (
+        ItemID: Lead;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    ),
+    (
+        ItemID: Glass;
+        Required: 1;
+    );
+);
+

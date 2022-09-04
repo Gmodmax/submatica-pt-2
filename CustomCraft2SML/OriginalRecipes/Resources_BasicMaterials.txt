@@ -1,0 +1,100 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                 PdaGroup: Resources - PdaCategory:BasicMaterials                 #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: Titanium;
+    AmountCrafted: 4;
+    Ingredients: 
+    (
+        ItemID: ScrapMetal;
+        Required: 1;
+    );
+),
+(
+    ItemID: TitaniumIngot;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 10;
+    );
+),
+(
+    ItemID: FiberMesh;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: CreepvinePiece;
+        Required: 2;
+    );
+),
+(
+    ItemID: Silicone;
+    AmountCrafted: 2;
+    Ingredients: 
+    (
+        ItemID: CreepvineSeedCluster;
+        Required: 1;
+    );
+),
+(
+    ItemID: Glass;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Quartz;
+        Required: 2;
+    );
+),
+(
+    ItemID: Bleach;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Salt;
+        Required: 1;
+    ),
+    (
+        ItemID: CoralChunk;
+        Required: 1;
+    );
+),
+(
+    ItemID: Lubricant;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: CreepvineSeedCluster;
+        Required: 1;
+    );
+),
+(
+    ItemID: EnameledGlass;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: StalkerTooth;
+        Required: 1;
+    ),
+    (
+        ItemID: Glass;
+        Required: 1;
+    );
+),
+(
+    ItemID: PlasteelIngot;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: TitaniumIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: Lithium;
+        Required: 2;
+    );
+);
+

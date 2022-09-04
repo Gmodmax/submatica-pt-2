@@ -1,0 +1,32 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                     PdaGroup: Cyclops - PdaCategory:Cyclops                      #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: Cyclops;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PlasteelIngot;
+        Required: 3;
+    ),
+    (
+        ItemID: EnameledGlass;
+        Required: 3;
+    ),
+    (
+        ItemID: Lubricant;
+        Required: 1;
+    ),
+    (
+        ItemID: AdvancedWiringKit;
+        Required: 1;
+    ),
+    (
+        ItemID: Lead;
+        Required: 3;
+    );
+);
+

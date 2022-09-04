@@ -1,0 +1,25 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                      PdaGroup: Survival - PdaCategory:Water                      #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: FilteredWater;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Bladderfish;
+        Required: 1;
+    );
+),
+(
+    ItemID: DisinfectedWater;
+    AmountCrafted: 2;
+    Ingredients: 
+    (
+        ItemID: Bleach;
+        Required: 1;
+    );
+);
+

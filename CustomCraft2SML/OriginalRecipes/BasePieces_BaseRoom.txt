@@ -1,0 +1,67 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                   PdaGroup: BasePieces - PdaCategory:BaseRoom                    #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: BaseRoom;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 6;
+    );
+),
+(
+    ItemID: BaseMapRoom;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 5;
+    ),
+    (
+        ItemID: Copper;
+        Required: 2;
+    ),
+    (
+        ItemID: Gold;
+        Required: 1;
+    ),
+    (
+        ItemID: JeweledDiskPiece;
+        Required: 1;
+    );
+),
+(
+    ItemID: BaseMoonpool;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: TitaniumIngot;
+        Required: 2;
+    ),
+    (
+        ItemID: Lubricant;
+        Required: 1;
+    ),
+    (
+        ItemID: Lead;
+        Required: 2;
+    );
+),
+(
+    ItemID: BaseObservatory;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: EnameledGlass;
+        Required: 2;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+);
+

@@ -1,0 +1,11 @@
+{
+  "Id": "CyclopsDockingMod",
+  "DisplayName": "CyclopsDockingMod",
+  "Author": "OSubMarin",
+  "Version": "1.1.0",
+  "Requires": [ "0Harmony.dll", "SMLHelper.dll" ],
+  "Enable": true,
+  "Game": "Subnautica",
+  "AssemblyName": "CyclopsDockingMod.dll",
+  "EntryMethod": "CyclopsDockingMod.QPatch.Patch"
+}

@@ -1,0 +1,154 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                 PdaGroup: Constructor - PdaCategory:Constructor                  #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: Seamoth;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: TitaniumIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: PowerCell;
+        Required: 1;
+    ),
+    (
+        ItemID: Glass;
+        Required: 2;
+    ),
+    (
+        ItemID: Lubricant;
+        Required: 1;
+    ),
+    (
+        ItemID: Lead;
+        Required: 1;
+    );
+),
+(
+    ItemID: Exosuit;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PlasteelIngot;
+        Required: 2;
+    ),
+    (
+        ItemID: Aerogel;
+        Required: 2;
+    ),
+    (
+        ItemID: EnameledGlass;
+        Required: 1;
+    ),
+    (
+        ItemID: Diamond;
+        Required: 2;
+    ),
+    (
+        ItemID: Lead;
+        Required: 2;
+    );
+),
+(
+    ItemID: RocketBase;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: TitaniumIngot;
+        Required: 2;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: Lead;
+        Required: 4;
+    );
+),
+(
+    ItemID: RocketBaseLadder;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PlasteelIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: CopperWire;
+        Required: 1;
+    ),
+    (
+        ItemID: Lubricant;
+        Required: 1;
+    );
+),
+(
+    ItemID: RocketStage1;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PlasteelIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: Nickel;
+        Required: 3;
+    ),
+    (
+        ItemID: Aerogel;
+        Required: 2;
+    ),
+    (
+        ItemID: WiringKit;
+        Required: 1;
+    );
+),
+(
+    ItemID: RocketStage2;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: PlasteelIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: Sulphur;
+        Required: 4;
+    ),
+    (
+        ItemID: Kyanite;
+        Required: 4;
+    ),
+    (
+        ItemID: PrecursorIonPowerCell;
+        Required: 2;
+    );
+),
+(
+    ItemID: RocketStage3;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: CyclopsShieldModule;
+        Required: 1;
+    ),
+    (
+        ItemID: PlasteelIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: EnameledGlass;
+        Required: 1;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    );
+);
+

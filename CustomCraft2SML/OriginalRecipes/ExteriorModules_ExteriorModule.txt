@@ -1,0 +1,54 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#              PdaGroup: ExteriorModules - PdaCategory:ExteriorModule              #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: SolarPanel;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Quartz;
+        Required: 2;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 2;
+    ),
+    (
+        ItemID: Copper;
+        Required: 1;
+    );
+),
+(
+    ItemID: ThermalPlant;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 5;
+    ),
+    (
+        ItemID: Magnetite;
+        Required: 2;
+    ),
+    (
+        ItemID: Aerogel;
+        Required: 1;
+    );
+),
+(
+    ItemID: PowerTransmitter;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Gold;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+);
+

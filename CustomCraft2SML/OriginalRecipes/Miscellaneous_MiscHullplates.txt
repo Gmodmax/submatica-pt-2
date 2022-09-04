@@ -1,0 +1,202 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#               PdaGroup: Miscellaneous - PdaCategory:MiscHullplates               #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: DevTestItem;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: SpecialHullPlate;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: BikemanHullPlate;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: EatMyDictionHullPlate;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: DioramaHullPlate;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: MarkiplierHullPlate;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: MuyskermHullPlate;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: LordMinionHullPlate;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: JackSepticEyeHullPlate;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: IGPHullPlate;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: GilathissHullPlate;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: Marki1;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: Marki2;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: JackSepticEye;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: EatMyDiction;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+);
+

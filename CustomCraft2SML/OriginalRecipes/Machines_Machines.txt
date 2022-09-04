@@ -1,0 +1,97 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                    PdaGroup: Machines - PdaCategory:Machines                     #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: Seaglide;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Battery;
+        Required: 1;
+    ),
+    (
+        ItemID: Lubricant;
+        Required: 1;
+    ),
+    (
+        ItemID: CopperWire;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: Constructor;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: TitaniumIngot;
+        Required: 1;
+    ),
+    (
+        ItemID: Lubricant;
+        Required: 1;
+    ),
+    (
+        ItemID: PowerCell;
+        Required: 1;
+    );
+),
+(
+    ItemID: Beacon;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Copper;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: SmallStorage;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 4;
+    );
+),
+(
+    ItemID: Gravsphere;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Battery;
+        Required: 1;
+    ),
+    (
+        ItemID: Copper;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: CyclopsDecoy;
+    AmountCrafted: 3;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 3;
+    ),
+    (
+        ItemID: WiringKit;
+        Required: 1;
+    );
+);
+

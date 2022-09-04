@@ -1,0 +1,225 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#                    PdaGroup: Miscellaneous - PdaCategory:Misc                    #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: Bench;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+),
+(
+    ItemID: Bed1;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 2;
+    ),
+    (
+        ItemID: FiberMesh;
+        Required: 1;
+    );
+),
+(
+    ItemID: Bed2;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 2;
+    ),
+    (
+        ItemID: FiberMesh;
+        Required: 1;
+    );
+),
+(
+    ItemID: NarrowBed;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 1;
+    ),
+    (
+        ItemID: FiberMesh;
+        Required: 1;
+    );
+),
+(
+    ItemID: StarshipDesk;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: StarshipChair;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: StarshipChair2;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: StarshipChair3;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: Sign;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: CopperWire;
+        Required: 1;
+    );
+),
+(
+    ItemID: PictureFrame;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: CopperWire;
+        Required: 1;
+    );
+),
+(
+    ItemID: StarshipCargoCrate;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: StarshipCircuitBox;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: StarshipMonitor;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: BarTable;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: Trashcans;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+),
+(
+    ItemID: LabTrashcan;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+),
+(
+    ItemID: VendingMachine;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+),
+(
+    ItemID: CoffeeVendingMachine;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+),
+(
+    ItemID: LabCounter;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+),
+(
+    ItemID: BasePlanter;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: SingleWallShelf;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: WallShelves;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+);
+

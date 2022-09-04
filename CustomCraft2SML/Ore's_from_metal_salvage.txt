@@ -1,0 +1,121 @@
+AliasRecipes: 
+(
+    ItemID: Copper50;
+    DisplayName: "Copper";
+    Tooltip: "Craft copper from metal salvage it does say it composes of MOSTLEY titanium";
+    LinkedItemIDs: Copper, Copper;
+    SpriteItemID: Copper;
+    UnlockedBy: Copper;
+    Ingredients: 
+    (
+        ItemID: ScrapMetal;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/BasicMaterials/Ore's;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Diamond4;
+    DisplayName: "Diamond";
+    Tooltip: "Craft diamond from metal salvage it does say it composes of MOSTLEY titanium";
+    LinkedItemIDs: Diamond, Diamond;
+    SpriteItemID: Diamond;
+    UnlockedBy: Diamond;
+    Ingredients: 
+    (
+        ItemID: ScrapMetal;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/BasicMaterials/Ore's;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Gold20;
+    DisplayName: "Gold";
+    Tooltip: "Craft Gold from metal salvage it does say it composes of MOSTLEY titanium";
+    LinkedItemIDs: Gold;
+    SpriteItemID: Gold;
+    UnlockedBy: Gold;
+    Ingredients: 
+    (
+        ItemID: ScrapMetal;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/BasicMaterials/Ore's;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Lead100;
+    DisplayName: "Lead";
+    Tooltip: "Craft Lead from metal salvage it does say it composes of MOSTLEY titanium";
+    LinkedItemIDs: Lead;
+    SpriteItemID: Lead;
+    UnlockedBy: Lead;
+    Ingredients: 
+    (
+        ItemID: ScrapMetal;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/BasicMaterials/Ore's;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Lithium10;
+    DisplayName: "Lithium";
+    Tooltip: "Craft Lithium from metal salvage it does say "it composes of MOSTLEY titanium"";
+    LinkedItemIDs: Lithium;
+    SpriteItemID: Lithium;
+    UnlockedBy: Lithium;
+    Ingredients: 
+    (
+        ItemID: ScrapMetal;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/BasicMaterials/Ore's;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Magnetite5;
+    DisplayName: "Magnetite";
+    Tooltip: "Craft Magnetite from metal salvage it does say it composes of MOSTLEY titanium";
+    LinkedItemIDs: Magnetite, Magnetite;
+    SpriteItemID: Magnetite;
+    UnlockedBy: Magnetite;
+    Ingredients: 
+    (
+        ItemID: ScrapMetal;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/BasicMaterials/Ore's;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Ruby5;
+    DisplayName: "Ruby";
+    Tooltip: "Craft Ruby from metal salvage it does say it composes of MOSTLEY titanium";
+    LinkedItemIDs: AluminumOxide;
+    SpriteItemID: AluminumOxide;
+    UnlockedBy: AluminumOxide;
+    Ingredients: 
+    (
+        ItemID: ScrapMetal;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/BasicMaterials/Ore's;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Silver5;
+    DisplayName: "Silver";
+    Tooltip: "Craft Silver from metal salvage it does say it composes of MOSTLEY titanium";
+    LinkedItemIDs: Silver;
+    SpriteItemID: Silver;
+    UnlockedBy: Silver;
+    Ingredients: 
+    (
+        ItemID: ScrapMetal;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/BasicMaterials/Ore's;
+    ForceUnlockAtStart: YES;
+),

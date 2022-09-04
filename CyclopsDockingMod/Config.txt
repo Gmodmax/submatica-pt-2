@@ -1,0 +1,57 @@
+﻿# ------------------------------
+# GENERAL SETTINGS
+# ------------------------------
+
+# The line below defines the charge speed for Cyclops powercells (when it is docked to a base with energy). Possible values: A digit between 1 and 100.
+powercellsChargeSpeed=100
+
+# The line below defines the distance (in meters) at which the automatic docking procedure will trigger. Possible values: A digit between 10 and 50.
+autoDockingRange=13
+
+# The line below defines if docking is manual (true) or automatic (false). Possible values: True or False.
+enableManualDocking=False
+
+# The line below defines the key to initiate a manual docking procedure. Possible values: The representation of the keyboard/controller key.
+manualDockingKey=Alpha0
+
+# The line below defines the tint color that will be applied to the ladder inside docking corridor. Possible values: A digit between 0 and 9 (0=None, 1=Cyan, 2=Black, 3=White, 4=Red, 5=Yellow, 6=Green, 7=Blue, 8=Purple, 9=Pink).
+ladderTintColor=6
+
+# The line below defines the ingredients required to build the Cyclops docking base piece. Possible values: A list of tech type names separated with commas (attention: maximum 300 characters, requires minimum one tech type name).
+basePieceRecipe=Titanium,Titanium,Titanium,Lubricant,Lead
+
+
+
+# ------------------------------
+# SIGNS DEFAULT CONFIGURATION
+# ------------------------------
+
+# The line below defines the default size for the text inside the docking corridor. Possible values: A digit between -3 and 3.
+defaultTextSize=0
+
+# The line below defines the default color for the text inside the docking corridor. Possible values: A digit between 0 and 7 (0=Cyan, 1=Black, 2=White, 3=Red, 4=Yellow, 5=Green, 6=Blue, 7=Purple).
+defaultTextColor=5
+
+# The line below defines the default background for the text inside the docking corridor. Possible values: True (background visible) or False (background hidden).
+defaultBackground=True
+
+
+
+# ---------------------------
+# LANGUAGE STRINGS
+# ---------------------------
+
+# The line below defines the text displayed inside the docking corridor when there is no Cyclops docked. Possible values: Any text, between 1 and 40 characters.
+noCyclopsText=No Cyclops docked
+
+# The line below defines the text displayed inside the docking corridor when a Cyclops is docked. Possible values: Any text, between 1 and 40 characters (attention: don't remove the {0}).
+cyclopsDockedText=Cyclops docked: Energy {0}%
+
+# The line below defines the text displayed on the ladder inside the docking corridor. Possible values: Any text, between 1 and 40 characters.
+climbIntoCyclopsText=Climb into Cyclops
+
+# The line below defines the name of the Cyclops docking base piece. Possible values: Any text, between 1 and 40 characters.
+basePieceName=Cyclops docking hatch
+
+# The line below defines the description of the Cyclops docking base piece. Possible values: Any text, between 1 and 200 characters.
+basePieceDescription=A module for mooring the Cyclops to a base. Allows quick base/Cyclops transitions and recharges Cyclops powercells.

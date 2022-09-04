@@ -1,0 +1,33 @@
+﻿#            This file was generated with original recipes in the game             #
+# You can copy individual entries from this file to use in your personal overrides #
+# -------------------------------------------------------------------------------- #
+#              PdaGroup: ExteriorModules - PdaCategory:ExteriorLight               #
+# -------------------------------------------------------------------------------- #
+ModifiedRecipes: 
+(
+    ItemID: Techlight;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 1;
+    );
+),
+(
+    ItemID: Spotlight;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Glass;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 2;
+    );
+);
+
